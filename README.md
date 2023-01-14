@@ -6,7 +6,7 @@ This is a mobile application built using Flutter, which allows users to browse a
 * Cart: Users can add items to their cart and view the total cost of their purchase.
 
 ## Getting Started
-* Clone the repository by running the command git clone https://github.com/[username]/flutter-grocery-store.git
+* Clone the repository by running the command git clone https://github.com/WasiuddinB/Grocery_Store.git
 * Navigate to the project directory by running the command cd flutter-grocery-store
 * Run the command flutter pub get to install the required dependencies
 * Run the command flutter run to start the application
