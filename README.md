@@ -1,16 +1,20 @@
-# grocery_store
+# Simple Grocery Store
+This is a mobile application built using Flutter, which allows users to browse and purchase groceries from the convenience of their mobile devices.
 
-A new Flutter project.
+## Features
+* Product List: Users can view a list of available products, which includes product name, image, and price.
+* Cart: Users can add items to their cart and view the total cost of their purchase.
 
 ## Getting Started
+* Clone the repository by running the command git clone https://github.com/[username]/flutter-grocery-store.git
+* Navigate to the project directory by running the command cd flutter-grocery-store
+* Run the command flutter pub get to install the required dependencies
+* Run the command flutter run to start the application
 
-This project is a starting point for a Flutter application.
+## Dependencies
+* Flutter SDK
+* Dart SDK
 
-A few resources to get you started if this is your first Flutter project:
+# Contact
+If you have any questions or issues, you can reach out to me at wbhuyian201286@bscse.uiu.ac.bd
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
